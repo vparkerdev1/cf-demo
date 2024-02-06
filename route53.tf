@@ -1,0 +1,1 @@
+# Route53 is used to translate the company’s domain name to the ALB
